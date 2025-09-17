@@ -16,7 +16,7 @@ header {
 }
 
 main {
-    max-width: 800px;
+    max-width: 900px;
     margin: 20px auto;
     padding: 20px;
     background-color: #fff;
@@ -39,27 +39,34 @@ main {
 }
 
 .content-container {
-    border-top: 2px solid #eee;
     padding-top: 20px;
+}
+
+.surah-title {
     text-align: center;
+    font-size: 1.8em;
+    color: #00796b;
+    margin-bottom: 20px;
 }
 
 .ayah-container {
-    margin-bottom: 20px;
-    padding: 15px;
+    margin-bottom: 30px;
+    padding: 20px;
     border: 1px solid #ddd;
-    border-radius: 5px;
+    border-radius: 8px;
     background-color: #fafafa;
 }
 
-.ayah-number {
-    font-size: 1.2em;
+.ayah-header {
+    font-size: 1.4em;
     font-weight: bold;
-    color: #00796b;
-    margin-bottom: 5px;
+    color: #555;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
 }
 
-.arabic-text {
+.ayah-text {
     font-family: 'Amiri', 'Traditional Arabic', serif;
     font-size: 2.2em;
     direction: rtl;
@@ -67,8 +74,47 @@ main {
     line-height: 1.8;
 }
 
-.translation-text {
+.word-details-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+    margin-top: 20px;
+}
+
+.word-detail-box-left,
+.word-detail-box-right {
+    border: 1px solid #b3e0e0;
+    background-color: #e0f2f1;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+.word-arabic {
+    font-family: 'Amiri', 'Traditional Arabic', serif;
+    font-size: 1.5em;
+    direction: rtl;
+    text-align: right;
+    margin: 0;
+    font-weight: bold;
+    color: #00796b;
+}
+
+.word-translation {
+    margin: 5px 0 0;
     font-style: italic;
-    color: #555;
+}
+
+.root-info {
     margin-top: 10px;
+    border-top: 1px dashed #999;
+    padding-top: 10px;
+}
+
+.root-info p {
+    margin: 0;
+    font-size: 0.9em;
+}
+
+.root-info strong {
+    color: #333;
 }
