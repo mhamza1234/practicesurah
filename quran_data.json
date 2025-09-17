@@ -7,37 +7,218 @@
       {
         "ayah_number": 1,
         "arabic_text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-        "translation_english": "In the name of Allah, the Entirely Merciful, the Especially Merciful."
+        "words": [
+          {
+            "arabic": "بِسْمِ",
+            "translation": "In the name",
+            "root": "B-S-M",
+            "related_words": "Bismilah"
+          },
+          {
+            "arabic": "اللَّهِ",
+            "translation": "of Allah",
+            "root": "A-L-H",
+            "related_words": "Ilah"
+          },
+          {
+            "arabic": "الرَّحْمَٰنِ",
+            "translation": "the Most Merciful",
+            "root": "R-H-M",
+            "related_words": "Rahman, Rahim"
+          },
+          {
+            "arabic": "الرَّحِيمِ",
+            "translation": "the Especially Merciful",
+            "root": "R-H-M",
+            "related_words": "Rahman, Rahim"
+          }
+        ]
       },
       {
         "ayah_number": 2,
         "arabic_text": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
-        "translation_english": "All praise is due to Allah, Lord of the worlds."
+        "words": [
+          {
+            "arabic": "الْحَمْدُ",
+            "translation": "All praise",
+            "root": "H-M-D",
+            "related_words": "Ahmad, Muhammad"
+          },
+          {
+            "arabic": "لِلَّهِ",
+            "translation": "is due to Allah",
+            "root": "A-L-H",
+            "related_words": "Ilah"
+          },
+          {
+            "arabic": "رَبِّ",
+            "translation": "Lord",
+            "root": "R-B-B",
+            "related_words": "Rabb"
+          },
+          {
+            "arabic": "الْعَالَمِينَ",
+            "translation": "of the worlds",
+            "root": "A-L-M",
+            "related_words": "Alam, Alim"
+          }
+        ]
       },
       {
         "ayah_number": 3,
         "arabic_text": "الرَّحْمَٰنِ الرَّحِيمِ",
-        "translation_english": "The Entirely Merciful, the Especially Merciful."
+        "words": [
+          {
+            "arabic": "الرَّحْمَٰنِ",
+            "translation": "the Most Merciful",
+            "root": "R-H-M",
+            "related_words": "Rahman, Rahim"
+          },
+          {
+            "arabic": "الرَّحِيمِ",
+            "translation": "the Especially Merciful",
+            "root": "R-H-M",
+            "related_words": "Rahman, Rahim"
+          }
+        ]
       },
       {
         "ayah_number": 4,
         "arabic_text": "مَالِكِ يَوْمِ الدِّينِ",
-        "translation_english": "Sovereign of the Day of Recompense."
+        "words": [
+          {
+            "arabic": "مَالِكِ",
+            "translation": "Sovereign",
+            "root": "M-L-K",
+            "related_words": "Malik, Mulk"
+          },
+          {
+            "arabic": "يَوْمِ",
+            "translation": "of the Day",
+            "root": "Y-W-M",
+            "related_words": "Yaum"
+          },
+          {
+            "arabic": "الدِّينِ",
+            "translation": "of Recompense",
+            "root": "D-Y-N",
+            "related_words": "Deen"
+          }
+        ]
       },
       {
         "ayah_number": 5,
         "arabic_text": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
-        "translation_english": "It is You we worship and You we ask for help."
+        "words": [
+          {
+            "arabic": "إِيَّاكَ",
+            "translation": "You alone",
+            "root": "N/A",
+            "related_words": "N/A"
+          },
+          {
+            "arabic": "نَعْبُدُ",
+            "translation": "we worship",
+            "root": "'-B-D",
+            "related_words": "Abid, Ibadah"
+          },
+          {
+            "arabic": "وَإِيَّاكَ",
+            "translation": "and You alone",
+            "root": "N/A",
+            "related_words": "N/A"
+          },
+          {
+            "arabic": "نَسْتَعِينُ",
+            "translation": "we ask for help",
+            "root": "'-W-N",
+            "related_words": "Isti'anah, 'Awn"
+          }
+        ]
       },
       {
         "ayah_number": 6,
         "arabic_text": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
-        "translation_english": "Guide us to the straight path."
+        "words": [
+          {
+            "arabic": "اهْدِنَا",
+            "translation": "Guide us",
+            "root": "H-D-Y",
+            "related_words": "Hidayah, Hadi"
+          },
+          {
+            "arabic": "الصِّرَاطَ",
+            "translation": "to the path",
+            "root": "S-R-T",
+            "related_words": "Sirat"
+          },
+          {
+            "arabic": "الْمُسْتَقِيمَ",
+            "translation": "the straight",
+            "root": "Q-W-M",
+            "related_words": "Mustaqim, Qawim"
+          }
+        ]
       },
       {
         "ayah_number": 7,
         "arabic_text": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
-        "translation_english": "The path of those upon whom You have bestowed favor, not of those who have evoked [Your] anger or of those who are astray."
+        "words": [
+          {
+            "arabic": "صِرَاطَ",
+            "translation": "The path",
+            "root": "S-R-T",
+            "related_words": "Sirat"
+          },
+          {
+            "arabic": "الَّذِينَ",
+            "translation": "of those",
+            "root": "N/A",
+            "related_words": "N/A"
+          },
+          {
+            "arabic": "أَنْعَمْتَ",
+            "translation": "You have bestowed favor",
+            "root": "N-'-M",
+            "related_words": "Ni'mah, Na'im"
+          },
+          {
+            "arabic": "عَلَيْهِمْ",
+            "translation": "upon them",
+            "root": "N/A",
+            "related_words": "N/A"
+          },
+          {
+            "arabic": "غَيْرِ",
+            "translation": "not of",
+            "root": "Gh-Y-R",
+            "related_words": "Ghayr"
+          },
+          {
+            "arabic": "الْمَغْضُوبِ",
+            "translation": "those who evoked [Your] anger",
+            "root": "Gh-Ḍ-B",
+            "related_words": "Ghadab"
+          },
+          {
+            "arabic": "عَلَيْهِمْ",
+            "translation": "upon them",
+            "root": "N/A",
+            "related_words": "N/A"
+          },
+          {
+            "arabic": "وَلَا",
+            "translation": "or of those who are",
+            "root": "N/A",
+            "related_words": "N/A"
+          },
+          {
+            "arabic": "الضَّالِّينَ",
+            "translation": "astray",
+            "root": "Ḍ-L-L",
+            "related_words": "Dalal"
+          }
+        ]
       }
     ]
   },
@@ -49,152 +230,314 @@
       {
         "ayah_number": 1,
         "arabic_text": "تَبَارَكَ الَّذِي بِيَدِهِ الْمُلْكُ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
-        "translation_english": "Blessed is He in whose hand is dominion, and He is over all things competent."
+        "words": [
+          {
+            "arabic": "تَبَارَكَ",
+            "translation": "Blessed is He",
+            "root": "B-R-K",
+            "related_words": "Barakah, Mubarak"
+          },
+          {
+            "arabic": "الَّذِي",
+            "translation": "who",
+            "root": "N/A",
+            "related_words": "N/A"
+          },
+          {
+            "arabic": "بِيَدِهِ",
+            "translation": "in His hand",
+            "root": "Y-D-D",
+            "related_words": "Yad (hand)"
+          },
+          {
+            "arabic": "الْمُلْكُ",
+            "translation": "the dominion",
+            "root": "M-L-K",
+            "related_words": "Malik (king), Mulk (kingdom)"
+          },
+          {
+            "arabic": "وَهُوَ",
+            "translation": "and He",
+            "root": "N/A",
+            "related_words": "N/A"
+          },
+          {
+            "arabic": "عَلَىٰ",
+            "translation": "over",
+            "root": "N/A",
+            "related_words": "N/A"
+          },
+          {
+            "arabic": "كُلِّ",
+            "translation": "all",
+            "root": "K-L-L",
+            "related_words": "Kull (all)"
+          },
+          {
+            "arabic": "شَيْءٍ",
+            "translation": "things",
+            "root": "Sh-Y-'",
+            "related_words": "N/A"
+          },
+          {
+            "arabic": "قَدِيرٌ",
+            "translation": "competent",
+            "root": "Q-D-R",
+            "related_words": "Qadir (Powerful), Qadr (destiny)"
+          }
+        ]
       },
       {
         "ayah_number": 2,
         "arabic_text": "الَّذِي خَلَقَ الْمَوْتَ وَالْحَيَاةَ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا ۚ وَهُوَ الْعَزِيزُ الْغَفُورُ",
-        "translation_english": "He who created death and life to test you [as to] which of you is best in deed - and He is the Exalted in Might, the Forgiving."
+        "words": [
+          {
+            "arabic": "الَّذِي",
+            "translation": "He who",
+            "root": "N/A",
+            "related_words": "N/A"
+          },
+          {
+            "arabic": "خَلَقَ",
+            "translation": "created",
+            "root": "Kh-L-Q",
+            "related_words": "Khalq, Khaliq"
+          },
+          {
+            "arabic": "الْمَوْتَ",
+            "translation": "death",
+            "root": "M-W-T",
+            "related_words": "Mawt, Mayyit"
+          },
+          {
+            "arabic": "وَالْحَيَاةَ",
+            "translation": "and life",
+            "root": "H-Y-Y",
+            "related_words": "Hayat, Hayy"
+          },
+          {
+            "arabic": "لِيَبْلُوَكُمْ",
+            "translation": "to test you",
+            "root": "B-L-W",
+            "related_words": "Ibtila"
+          },
+          {
+            "arabic": "أَيُّكُمْ",
+            "translation": "which of you",
+            "root": "N/A",
+            "related_words": "N/A"
+          },
+          {
+            "arabic": "أَحْسَنُ",
+            "translation": "is best",
+            "root": "H-S-N",
+            "related_words": "Ihsan, Hasan"
+          },
+          {
+            "arabic": "عَمَلًا",
+            "translation": "in deed",
+            "root": "'-M-L",
+            "related_words": "Amal"
+          },
+          {
+            "arabic": "وَهُوَ",
+            "translation": "and He",
+            "root": "N/A",
+            "related_words": "N/A"
+          },
+          {
+            "arabic": "الْعَزِيزُ",
+            "translation": "is the Exalted in Might",
+            "root": "'-Z-Z",
+            "related_words": "Azeez"
+          },
+          {
+            "arabic": "الْغَفُورُ",
+            "translation": "the Forgiving",
+            "root": "Gh-F-R",
+            "related_words": "Ghafoor, Ghaffar"
+          }
+        ]
       },
       {
         "ayah_number": 3,
         "arabic_text": "الَّذِي خَلَقَ سَبْعَ سَمَاوَاتٍ طِبَاقًا ۖ مَّا تَرَىٰ فِي خَلْقِ الرَّحْمَٰنِ مِن تَفَاوُتٍ ۖ فَارْجِعِ الْبَصَرَ هَلْ تَرَىٰ مِن فُطُورٍ",
-        "translation_english": "He who created seven heavens in layers. You do not see in the creation of the Most Merciful any inconsistency. So return [your] vision [to the sky]; do you see any breaks?"
+        "words": [
+          {
+            "arabic": "الَّذِي",
+            "translation": "He who",
+            "root": "N/A",
+            "related_words": "N/A"
+          },
+          {
+            "arabic": "خَلَقَ",
+            "translation": "created",
+            "root": "Kh-L-Q",
+            "related_words": "Khalq, Khaliq"
+          },
+          {
+            "arabic": "سَبْعَ",
+            "translation": "seven",
+            "root": "S-B-'-",
+            "related_words": "Sab'ah"
+          },
+          {
+            "arabic": "سَمَاوَاتٍ",
+            "translation": "heavens",
+            "root": "S-M-W",
+            "related_words": "Sama"
+          },
+          {
+            "arabic": "طِبَاقًا",
+            "translation": "in layers",
+            "root": "T-B-Q",
+            "related_words": "Tabaqah"
+          },
+          {
+            "arabic": "مَّا",
+            "translation": "You do not",
+            "root": "N/A",
+            "related_words": "N/A"
+          },
+          {
+            "arabic": "تَرَىٰ",
+            "translation": "see",
+            "root": "R-'-Y",
+            "related_words": "Ra'a"
+          },
+          {
+            "arabic": "فِي",
+            "translation": "in",
+            "root": "N/A",
+            "related_words": "N/A"
+          },
+          {
+            "arabic": "خَلْقِ",
+            "translation": "the creation",
+            "root": "Kh-L-Q",
+            "related_words": "Khalq, Khaliq"
+          },
+          {
+            "arabic": "الرَّحْمَٰنِ",
+            "translation": "of the Most Merciful",
+            "root": "R-H-M",
+            "related_words": "Rahman, Rahim"
+          },
+          {
+            "arabic": "مِن",
+            "translation": "any",
+            "root": "N/A",
+            "related_words": "N/A"
+          },
+          {
+            "arabic": "تَفَاوُتٍ",
+            "translation": "inconsistency",
+            "root": "F-W-T",
+            "related_words": "Fawt"
+          },
+          {
+            "arabic": "فَارْجِعِ",
+            "translation": "So return",
+            "root": "R-J-'-",
+            "related_words": "Raja"
+          },
+          {
+            "arabic": "الْبَصَرَ",
+            "translation": "the vision",
+            "root": "B-S-R",
+            "related_words": "Basar, Basir"
+          },
+          {
+            "arabic": "هَلْ",
+            "translation": "do you",
+            "root": "N/A",
+            "related_words": "N/A"
+          },
+          {
+            "arabic": "تَرَىٰ",
+            "translation": "see",
+            "root": "R-'-Y",
+            "related_words": "Ra'a"
+          },
+          {
+            "arabic": "مِن",
+            "translation": "any",
+            "root": "N/A",
+            "related_words": "N/A"
+          },
+          {
+            "arabic": "فُطُورٍ",
+            "translation": "breaks?",
+            "root": "F-T-R",
+            "related_words": "Fitrah"
+          }
+        ]
       },
       {
         "ayah_number": 4,
         "arabic_text": "ثُمَّ ارْجِعِ الْبَصَرَ كَرَّتَيْنِ يَنقَلِبْ إِلَيْكَ الْبَصَرُ خَاسِئًا وَهُوَ حَسِيرٌ",
-        "translation_english": "Then return [your] vision twice again. [Your] vision will return to you humbled while it is fatigued."
-      },
-      {
-        "ayah_number": 5,
-        "arabic_text": "وَلَقَدْ زَيَّنَّا السَّمَاءَ الدُّنْيَا بِمَصَابِيحَ وَجَعَلْنَاهَا رُجُومًا لِّلشَّيَاطِينِ ۖ وَأَعْتَدْنَا لَهُمْ عَذَابَ السَّعِيرِ",
-        "translation_english": "And We have certainly adorned the nearest heaven with stars and have made [from] them what is thrown at the devils and have prepared for them the punishment of the Blaze."
-      },
-      {
-        "ayah_number": 6,
-        "arabic_text": "وَلِلَّذِينَ كَفَرُوا بِرَبِّهِمْ عَذَابُ جَهَنَّمَ ۖ وَبِئْسَ الْمَصِيرُ",
-        "translation_english": "And for those who disbelieved in their Lord is the punishment of Hell, and wretched is the destination."
-      },
-      {
-        "ayah_number": 7,
-        "arabic_text": "إِذَا أُلْقُوا فِيهَا سَمِعُوا لَهَا شَهِيقًا وَهِيَ تَفُورُ",
-        "translation_english": "When they are thrown into it, they hear from it a [dreadful] inhaling while it boils up."
-      },
-      {
-        "ayah_number": 8,
-        "arabic_text": "تَكَادُ تَمَيَّزُ مِنَ الْغَيْظِ ۖ كُلَّمَا أُلْقِيَ فِيهَا فَوْجٌ سَأَلَهُمْ خَزَنَتُهَا أَلَمْ يَأْتِكُمْ نَذِيرٌ",
-        "translation_english": "It almost bursts with rage. Every time a company is thrown into it, its keepers ask them, 'Did there not come to you a warner?'"
-      },
-      {
-        "ayah_number": 9,
-        "arabic_text": "قَالُوا بَلَىٰ قَدْ جَاءَنَا نَذِيرٌ فَكَذَّبْنَا وَقُلْنَا مَا نَزَّلَ اللَّهُ مِن شَيْءٍ إِنْ أَنتُمْ إِلَّا فِي ضَلَالٍ كَبِيرٍ",
-        "translation_english": "They will say, 'Yes, a warner had come to us, but we denied and said, 'Allah has not sent down anything. You are not but in great error.'' "
-      },
-      {
-        "ayah_number": 10,
-        "arabic_text": "وَقَالُوا لَوْ كُنَّا نَسْمَعُ أَوْ نَعْقِلُ مَا كُنَّا فِي أَصْحَابِ السَّعِيرِ",
-        "translation_english": "And they will say, 'If only we had been listening or reasoning, we would not be among the companions of the Blaze.'"
-      },
-      {
-        "ayah_number": 11,
-        "arabic_text": "فَاعْتَرَفُوا بِذَنبِهِمْ ۖ فَسُحْقًا لِّأَصْحَابِ السَّعِيرِ",
-        "translation_english": "And they will admit their sin, so [away with] the companions of the Blaze."
-      },
-      {
-        "ayah_number": 12,
-        "arabic_text": "إِنَّ الَّذِينَ يَخْشَوْنَ رَبَّهُم بِالْغَيْبِ لَهُم مَّغْفِرَةٌ وَأَجْرٌ كَبِيرٌ",
-        "translation_english": "Indeed, those who fear their Lord unseen will have forgiveness and great reward."
-      },
-      {
-        "ayah_number": 13,
-        "arabic_text": "وَأَسِرُّوا قَوْلَكُمْ أَوِ اجْهَرُوا بِهِ ۖ إِنَّهُ عَلِيمٌ بِذَاتِ الصُّدُورِ",
-        "translation_english": "And conceal your speech or publicize it; indeed, He is Knowing of that within the breasts."
-      },
-      {
-        "ayah_number": 14,
-        "arabic_text": "أَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ اللَّطِيفُ الْخَبِيرُ",
-        "translation_english": "Does He who created not know, while He is the Subtle, the Acquainted?"
-      },
-      {
-        "ayah_number": 15,
-        "arabic_text": "هُوَ الَّذِي جَعَلَ لَكُمُ الْأَرْضَ ذَلُولًا فَامْشُوا فِي مَنَاكِبِهَا وَكُلُوا مِن رِّزْقِهِ ۖ وَإِلَيْهِ النُّشُورُ",
-        "translation_english": "It is He who made the earth subservient to you, so walk among its slopes and eat from His provision - and to Him is the resurrection."
-      },
-      {
-        "ayah_number": 16,
-        "arabic_text": "أَأَمِنتُم مَّن فِي السَّمَاءِ أَن يَخْسِفَ بِكُمُ الْأَرْضَ فَإِذَا هِيَ تَمُورُ",
-        "translation_english": "Do you feel secure that He who is in the heaven would not cause the earth to swallow you, and suddenly it would sway?"
-      },
-      {
-        "ayah_number": 17,
-        "arabic_text": "أَمْ أَمِنتُم مَّن فِي السَّمَاءِ أَن يُرْسِلَ عَلَيْكُمْ حَاصِبًا ۖ فَسَتَعْلَمُونَ كَيْفَ نَذِيرِ",
-        "translation_english": "Or do you feel secure that He who is in the heaven would not send against you a storm of stones? Then you will know how was My warning."
-      },
-      {
-        "ayah_number": 18,
-        "arabic_text": "وَلَقَدْ كَذَّبَ الَّذِينَ مِن قَبْلِهِمْ فَكَيْفَ كَانَ نَكِيرِ",
-        "translation_english": "And already had those before them denied, and how [terrible] was My reproach!"
-      },
-      {
-        "ayah_number": 19,
-        "arabic_text": "أَوَلَمْ يَرَوْا إِلَى الطَّيْرِ فَوْقَهُمْ صَافَّاتٍ وَيَقْبِضْنَ ۚ مَا يُمْسِكُهُنَّ إِلَّا الرَّحْمَٰنُ ۚ إِنَّهُ بِكُلِّ شَيْءٍ بَصِيرٌ",
-        "translation_english": "Do they not see the birds above them with wings spread and [sometimes] folded in? None holds them [aloft] but the Most Merciful. Indeed, He is, of all things, Seeing."
-      },
-      {
-        "ayah_number": 20,
-        "arabic_text": "أَمَّنْ هَٰذَا الَّذِي هُوَ جُندٌ لَّكُمْ يَنصُرُكُم مِّن دُونِ الرَّحْمَٰنِ ۚ إِنِ الْكَافِرُونَ إِلَّا فِي غُرُورٍ",
-        "translation_english": "Or who is it that could be an army for you to aid you other than the Most Merciful? The disbelievers are not but in delusion."
-      },
-      {
-        "ayah_number": 21,
-        "arabic_text": "أَمَّنْ هَٰذَا الَّذِي يَرْزُقُكُمْ إِنْ أَمْسَكَ رِزْقَهُ ۚ بَل لَّجُّوا فِي عُتُوٍّ وَنُفُورٍ",
-        "translation_english": "Or who is it that could provide for you if He withheld His provision? But they have persisted in insolence and aversion."
-      },
-      {
-        "ayah_number": 22,
-        "arabic_text": "أَفَمَن يَمْشِي مُكِبًّا عَلَىٰ وَجْهِهِ أَهْدَىٰ أَمَّن يَمْشِي سَوِيًّا عَلَىٰ صِرَاطٍ مُّسْتَقِيمٍ",
-        "translation_english": "Then is he who walks facedown on his face more rightly guided or he who walks erect on a straight path?"
-      },
-      {
-        "ayah_number": 23,
-        "arabic_text": "قُلْ هُوَ الَّذِي أَنشَأَكُمْ وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ وَالْأَفْئِدَةَ ۖ قَلِيلًا مَّا تَشْكُرُونَ",
-        "translation_english": "Say, 'It is He who produced you and made for you hearing and vision and hearts; little are you grateful.' "
-      },
-      {
-        "ayah_number": 24,
-        "arabic_text": "قُلْ هُوَ الَّذِي ذَرَأَكُمْ فِي الْأَرْضِ وَإِلَيْهِ تُحْشَرُونَ",
-        "translation_english": "Say, 'It is He who has dispersed you through the earth, and to Him you will be gathered.'"
-      },
-      {
-        "ayah_number": 25,
-        "arabic_text": "وَيَقُولُونَ مَتَىٰ هَٰذَا الْوَعْدُ إِن كُنتُمْ صَادِقِينَ",
-        "translation_english": "And they say, 'When is this promise, if you should be truthful?' "
-      },
-      {
-        "ayah_number": 26,
-        "arabic_text": "قُلْ إِنَّمَا الْعِلْمُ عِندَ اللَّهِ وَإِنَّمَا أَنَا نَذِيرٌ مُّبِينٌ",
-        "translation_english": "Say, 'The knowledge is only with Allah, and I am only a clear warner.'"
-      },
-      {
-        "ayah_number": 27,
-        "arabic_text": "فَلَمَّا رَأَوْهُ زُلْفَةً سِيئَتْ وُجُوهُ الَّذِينَ كَفَرُوا وَقِيلَ هَٰذَا الَّذِي كُنتُم بِهِ تَدَّعُونَ",
-        "translation_english": "But when they see it approaching, the faces of those who disbelieve will be distressed, and it will be said, 'This is that for which you used to call.'"
-      },
-      {
-        "ayah_number": 28,
-        "arabic_text": "قُلْ أَرَأَيْتُمْ إِنْ أَهْلَكَنِيَ اللَّهُ وَمَن مَّعِيَ أَوْ رَحِمَنَا فَمَن يُجِيرُ الْكَافِرِينَ مِنْ عَذَابٍ أَلِيمٍ",
-        "translation_english": "Say, 'Have you considered: if Allah should destroy me and those with me or have mercy upon us, then who will protect the disbelievers from a painful punishment?' "
-      },
-      {
-        "ayah_number": 29,
-        "arabic_text": "قُلْ هُوَ الرَّحْمَٰنُ آمَنَّا بِهِ وَعَلَيْهِ تَوَكَّلْنَا ۖ فَسَتَعْلَمُونَ مَنْ هُوَ فِي ضَلَالٍ مُّبِينٍ",
-        "translation_english": "Say, 'He is the Most Merciful; we have believed in Him, and upon Him we have relied. And you will [come to] know who it is that is in clear error.'"
-      },
-      {
-        "ayah_number": 30,
-        "arabic_text": "قُلْ أَرَأَيْتُمْ إِنْ أَصْبَحَ مَاؤُكُمْ غَوْرًا فَمَن يَأْتِيكُم بِمَاءٍ مَّعِينٍ",
-        "translation_english": "Say, 'Have you considered: if your water was to become sunken, then who could bring you flowing water?'"
+        "words": [
+          {
+            "arabic": "ثُمَّ",
+            "translation": "Then",
+            "root": "N/A",
+            "related_words": "N/A"
+          },
+          {
+            "arabic": "ارْجِعِ",
+            "translation": "return",
+            "root": "R-J-'-",
+            "related_words": "Raja"
+          },
+          {
+            "arabic": "الْبَصَرَ",
+            "translation": "the vision",
+            "root": "B-S-R",
+            "related_words": "Basar, Basir"
+          },
+          {
+            "arabic": "كَرَّتَيْنِ",
+            "translation": "twice again",
+            "root": "K-R-R",
+            "related_words": "Karr"
+          },
+          {
+            "arabic": "يَنقَلِبْ",
+            "translation": "[it] will return",
+            "root": "Q-L-B",
+            "related_words": "Inqilab, Qalb"
+          },
+          {
+            "arabic": "إِلَيْكَ",
+            "translation": "to you",
+            "root": "N/A",
+            "related_words": "N/A"
+          },
+          {
+            "arabic": "الْبَصَرُ",
+            "translation": "the vision",
+            "root": "B-S-R",
+            "related_words": "Basar, Basir"
+          },
+          {
+            "arabic": "خَاسِئًا",
+            "translation": "humbled",
+            "root": "Kh-S-'-",
+            "related_words": "Khasia"
+          },
+          {
+            "arabic": "وَهُوَ",
+            "translation": "while it is",
+            "root": "N/A",
+            "related_words": "N/A"
+          },
+          {
+            "arabic": "حَسِيرٌ",
+            "translation": "fatigued",
+            "root": "H-S-R",
+            "related_words": "Hasr"
+          }
+        ]
       }
     ]
   },
@@ -206,42 +549,86 @@
       {
         "ayah_number": 1,
         "arabic_text": "إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا",
-        "translation_english": "When the earth is shaken with its [final] earthquake"
+        "words": [
+          {
+            "arabic": "إِذَا",
+            "translation": "When",
+            "root": "N/A",
+            "related_words": "N/A"
+          },
+          {
+            "arabic": "زُلْزِلَتِ",
+            "translation": "is shaken",
+            "root": "Z-L-L",
+            "related_words": "Zilzal"
+          },
+          {
+            "arabic": "الْأَرْضُ",
+            "translation": "the earth",
+            "root": "A-R-Ḍ",
+            "related_words": "Ard"
+          },
+          {
+            "arabic": "زِلْزَالَهَا",
+            "translation": "with its [final] earthquake",
+            "root": "Z-L-L",
+            "related_words": "Zilzal"
+          }
+        ]
       },
       {
         "ayah_number": 2,
         "arabic_text": "وَأَخْرَجَتِ الْأَرْضُ أَثْقَالَهَا",
-        "translation_english": "And the earth discharges its burdens"
+        "words": [
+          {
+            "arabic": "وَأَخْرَجَتِ",
+            "translation": "And discharges",
+            "root": "Kh-R-J",
+            "related_words": "Khurooj"
+          },
+          {
+            "arabic": "الْأَرْضُ",
+            "translation": "the earth",
+            "root": "A-R-Ḍ",
+            "related_words": "Ard"
+          },
+          {
+            "arabic": "أَثْقَالَهَا",
+            "translation": "its burdens",
+            "root": "Th-Q-L",
+            "related_words": "Thaqil"
+          }
+        ]
       },
       {
         "ayah_number": 3,
         "arabic_text": "وَقَالَ الْإِنسَانُ مَا لَهَا",
-        "translation_english": "And man says, 'What is [wrong] with it?'"
-      },
-      {
-        "ayah_number": 4,
-        "arabic_text": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
-        "translation_english": "That Day, it will report its news"
-      },
-      {
-        "ayah_number": 5,
-        "arabic_text": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
-        "translation_english": "Because your Lord has inspired it."
-      },
-      {
-        "ayah_number": 6,
-        "arabic_text": "يَوْمَئِذٍ يَصْدُرُ النَّاسُ أَشْتَاتًا لِّيُرَوْا أَعْمَالَهُمْ",
-        "translation_english": "That Day, the people will depart separated [into categories] to be shown [the result of] their deeds."
-      },
-      {
-        "ayah_number": 7,
-        "arabic_text": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ",
-        "translation_english": "So whoever does an atom's weight of good will see it."
-      },
-      {
-        "ayah_number": 8,
-        "arabic_text": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ",
-        "translation_english": "And whoever does an atom's weight of evil will see it."
+        "words": [
+          {
+            "arabic": "وَقَالَ",
+            "translation": "And says",
+            "root": "Q-W-L",
+            "related_words": "Qawl, Qala"
+          },
+          {
+            "arabic": "الْإِنسَانُ",
+            "translation": "man",
+            "root": "A-N-S",
+            "related_words": "Insan"
+          },
+          {
+            "arabic": "مَا",
+            "translation": "What",
+            "root": "N/A",
+            "related_words": "N/A"
+          },
+          {
+            "arabic": "لَهَا",
+            "translation": "is [wrong] with it?",
+            "root": "N/A",
+            "related_words": "N/A"
+          }
+        ]
       }
     ]
   },
@@ -253,57 +640,38 @@
       {
         "ayah_number": 1,
         "arabic_text": "وَالْعَادِيَاتِ ضَبْحًا",
-        "translation_english": "By the galloping, panting steeds,"
+        "words": [
+          {
+            "arabic": "وَالْعَادِيَاتِ",
+            "translation": "By the galloping steeds",
+            "root": "'-D-Y",
+            "related_words": "Adiyah"
+          },
+          {
+            "arabic": "ضَبْحًا",
+            "translation": "panting",
+            "root": "Ḍ-B-Ḥ",
+            "related_words": "Dabh"
+          }
+        ]
       },
       {
         "ayah_number": 2,
         "arabic_text": "فَالْمُورِيَاتِ قَدْحًا",
-        "translation_english": "Striking sparks of fire,"
-      },
-      {
-        "ayah_number": 3,
-        "arabic_text": "فَالْمُغِيرَاتِ صُبْحًا",
-        "translation_english": "And charging in the morning,"
-      },
-      {
-        "ayah_number": 4,
-        "arabic_text": "فَأَثَرْنَ بِهِ نَقْعًا",
-        "translation_english": "Raising thereby [clouds of] dust,"
-      },
-      {
-        "ayah_number": 5,
-        "arabic_text": "فَوَسَطْنَ بِهِ جَمْعًا",
-        "translation_english": "And entering thereby into the center [of the enemy's camp],"
-      },
-      {
-        "ayah_number": 6,
-        "arabic_text": "إِنَّ الْإِنسَانَ لِرَبِّهِ لَكَنُودٌ",
-        "translation_english": "Indeed, mankind is to his Lord ungrateful."
-      },
-      {
-        "ayah_number": 7,
-        "arabic_text": "وَإِنَّهُ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ",
-        "translation_english": "And indeed, he is to that a witness."
-      },
-      {
-        "ayah_number": 8,
-        "arabic_text": "وَإِنَّهُ لِحُبِّ الْخَيْرِ لَشَدِيدٌ",
-        "translation_english": "And indeed he is, in love of wealth, intense."
-      },
-      {
-        "ayah_number": 9,
-        "arabic_text": "أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِي الْقُبُورِ",
-        "translation_english": "But does he not know that when the contents of the graves are scattered"
-      },
-      {
-        "ayah_number": 10,
-        "arabic_text": "وَحُصِّلَ مَا فِي الصُّدُورِ",
-        "translation_english": "And that within the breasts is obtained,"
-      },
-      {
-        "ayah_number": 11,
-        "arabic_text": "إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌ",
-        "translation_english": "Indeed, their Lord with them, that Day, is [fully] Acquainted."
+        "words": [
+          {
+            "arabic": "فَالْمُورِيَاتِ",
+            "translation": "Striking sparks",
+            "root": "W-R-Y",
+            "related_words": "Mawriyah"
+          },
+          {
+            "arabic": "قَدْحًا",
+            "translation": "of fire",
+            "root": "Q-D-H",
+            "related_words": "Qadh"
+          }
+        ]
       }
     ]
   },
@@ -315,57 +683,32 @@
       {
         "ayah_number": 1,
         "arabic_text": "الْقَارِعَةُ",
-        "translation_english": "The Striking Calamity -"
+        "words": [
+          {
+            "arabic": "الْقَارِعَةُ",
+            "translation": "The Striking Calamity",
+            "root": "Q-R-'-",
+            "related_words": "Qara'a"
+          }
+        ]
       },
       {
         "ayah_number": 2,
         "arabic_text": "مَا الْقَارِعَةُ",
-        "translation_english": "What is the Striking Calamity?"
-      },
-      {
-        "ayah_number": 3,
-        "arabic_text": "وَمَا أَدْرَاكَ مَا الْقَارِعَةُ",
-        "translation_english": "And what can make you know what is the Striking Calamity?"
-      },
-      {
-        "ayah_number": 4,
-        "arabic_text": "يَوْمَ يَكُونُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوثِ",
-        "translation_english": "It is the Day when a man will be like dispersed moths"
-      },
-      {
-        "ayah_number": 5,
-        "arabic_text": "وَتَكُونُ الْجِبَالُ كَالْعِهْنِ الْمَنفُوشِ",
-        "translation_english": "And the mountains will be like carded wool."
-      },
-      {
-        "ayah_number": 6,
-        "arabic_text": "فَأَمَّا مَن ثَقُلَتْ مَوَازِينُهُ",
-        "translation_english": "Then as for one whose scales are heavy [with good deeds],"
-      },
-      {
-        "ayah_number": 7,
-        "arabic_text": "فَهُوَ فِي عِيشَةٍ رَّاضِيَةٍ",
-        "translation_english": "He will be in a pleasant life."
-      },
-      {
-        "ayah_number": 8,
-        "arabic_text": "وَأَمَّا مَنْ خَفَّتْ مَوَازِينُهُ",
-        "translation_english": "But as for one whose scales are light,"
-      },
-      {
-        "ayah_number": 9,
-        "arabic_text": "فَأُمُّهُ هَاوِيَةٌ",
-        "translation_english": "His refuge will be an abyss."
-      },
-      {
-        "ayah_number": 10,
-        "arabic_text": "وَمَا أَدْرَاكَ مَا هِيَهْ",
-        "translation_english": "And what can make you know what that is?"
-      },
-      {
-        "ayah_number": 11,
-        "arabic_text": "نَارٌ حَامِيَةٌ",
-        "translation_english": "A Fire, intensely hot."
+        "words": [
+          {
+            "arabic": "مَا",
+            "translation": "What",
+            "root": "N/A",
+            "related_words": "N/A"
+          },
+          {
+            "arabic": "الْقَارِعَةُ",
+            "translation": "is the Striking Calamity?",
+            "root": "Q-R-'-",
+            "related_words": "Qara'a"
+          }
+        ]
       }
     ]
   },
@@ -377,42 +720,20 @@
       {
         "ayah_number": 1,
         "arabic_text": "أَلْهَاكُمُ التَّكَاثُرُ",
-        "translation_english": "Competition in worldly increase diverts you"
-      },
-      {
-        "ayah_number": 2,
-        "arabic_text": "حَتَّىٰ زُرْتُمُ الْمَقَابِرَ",
-        "translation_english": "Until you visit the graveyards."
-      },
-      {
-        "ayah_number": 3,
-        "arabic_text": "كَلَّا سَوْفَ تَعْلَمُونَ",
-        "translation_english": "No! You are going to know."
-      },
-      {
-        "ayah_number": 4,
-        "arabic_text": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ",
-        "translation_english": "Then no! You are going to know."
-      },
-      {
-        "ayah_number": 5,
-        "arabic_text": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ الْيَقِينِ",
-        "translation_english": "No! If you only knew with knowledge of certainty..."
-      },
-      {
-        "ayah_number": 6,
-        "arabic_text": "لَتَرَوُنَّ الْجَحِيمَ",
-        "translation_english": "You will surely see the Hellfire."
-      },
-      {
-        "ayah_number": 7,
-        "arabic_text": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ الْيَقِينِ",
-        "translation_english": "Then you will surely see it with the eye of certainty."
-      },
-      {
-        "ayah_number": 8,
-        "arabic_text": "ثُمَّ لَتُسْأَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ",
-        "translation_english": "Then you will surely be asked that Day about pleasure."
+        "words": [
+          {
+            "arabic": "أَلْهَاكُمُ",
+            "translation": "diverts you",
+            "root": "L-H-W",
+            "related_words": "Lahu"
+          },
+          {
+            "arabic": "التَّكَاثُرُ",
+            "translation": "competition in worldly increase",
+            "root": "K-Th-R",
+            "related_words": "Kathir, Takathur"
+          }
+        ]
       }
     ]
   },
@@ -424,17 +745,14 @@
       {
         "ayah_number": 1,
         "arabic_text": "وَالْعَصْرِ",
-        "translation_english": "By the declining day,"
-      },
-      {
-        "ayah_number": 2,
-        "arabic_text": "إِنَّ الْإِنسَانَ لَفِي خُسْرٍ",
-        "translation_english": "Indeed, mankind is in loss,"
-      },
-      {
-        "ayah_number": 3,
-        "arabic_text": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ",
-        "translation_english": "Except for those who have believed and done righteous deeds and advised each other to truth and advised each other to patience."
+        "words": [
+          {
+            "arabic": "وَالْعَصْرِ",
+            "translation": "By the declining day",
+            "root": "'-Ṣ-R",
+            "related_words": "Asr"
+          }
+        ]
       }
     ]
   },
@@ -446,47 +764,32 @@
       {
         "ayah_number": 1,
         "arabic_text": "وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ",
-        "translation_english": "Woe to every slanderer, backbiter,"
-      },
-      {
-        "ayah_number": 2,
-        "arabic_text": "الَّذِي جَمَعَ مَالًا وَعَدَّدَهُ",
-        "translation_english": "Who collects wealth and [continuously] counts it."
-      },
-      {
-        "ayah_number": 3,
-        "arabic_text": "يَحْسَبُ أَنَّ مَالَهُ أَخْلَدَهُ",
-        "translation_english": "He thinks that his wealth will make him immortal."
-      },
-      {
-        "ayah_number": 4,
-        "arabic_text": "كَلَّا ۖ لَيُنبَذَنَّ فِي الْحُطَمَةِ",
-        "translation_english": "No! He will surely be thrown into the Crusher."
-      },
-      {
-        "ayah_number": 5,
-        "arabic_text": "وَمَا أَدْرَاكَ مَا الْحُطَمَةُ",
-        "translation_english": "And what can make you know what is the Crusher?"
-      },
-      {
-        "ayah_number": 6,
-        "arabic_text": "نَارُ اللَّهِ الْمُوقَدَةُ",
-        "translation_english": "It is the fire of Allah, kindled,"
-      },
-      {
-        "ayah_number": 7,
-        "arabic_text": "الَّتِي تَطَّلِعُ عَلَى الْأَفْئِدَةِ",
-        "translation_english": "Which mounts directed at the hearts."
-      },
-      {
-        "ayah_number": 8,
-        "arabic_text": "إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ",
-        "translation_english": "Indeed, it will be closed upon them"
-      },
-      {
-        "ayah_number": 9,
-        "arabic_text": "فِي عَمَدٍ مُّمَدَّدَةٍ",
-        "translation_english": "In extended columns."
+        "words": [
+          {
+            "arabic": "وَيْلٌ",
+            "translation": "Woe",
+            "root": "W-Y-L",
+            "related_words": "Wayl"
+          },
+          {
+            "arabic": "لِّكُلِّ",
+            "translation": "to every",
+            "root": "K-L-L",
+            "related_words": "Kull"
+          },
+          {
+            "arabic": "هُمَزَةٍ",
+            "translation": "slanderer",
+            "root": "H-M-Z",
+            "related_words": "Humazah"
+          },
+          {
+            "arabic": "لُّمَزَةٍ",
+            "translation": "backbiter",
+            "root": "L-M-Z",
+            "related_words": "Lumazah"
+          }
+        ]
       }
     ]
   },
@@ -498,27 +801,50 @@
       {
         "ayah_number": 1,
         "arabic_text": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ",
-        "translation_english": "Have you not considered, [O Muhammad], how your Lord dealt with the companions of the elephant?"
-      },
-      {
-        "ayah_number": 2,
-        "arabic_text": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ",
-        "translation_english": "Did He not make their plan into misguidance?"
-      },
-      {
-        "ayah_number": 3,
-        "arabic_text": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
-        "translation_english": "And He sent against them birds in flocks,"
-      },
-      {
-        "ayah_number": 4,
-        "arabic_text": "تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ",
-        "translation_english": "Striking them with stones of hard clay,"
-      },
-      {
-        "ayah_number": 5,
-        "arabic_text": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍ",
-        "translation_english": "And He made them like eaten straw."
+        "words": [
+          {
+            "arabic": "أَلَمْ",
+            "translation": "Have you not",
+            "root": "N/A",
+            "related_words": "N/A"
+          },
+          {
+            "arabic": "تَرَ",
+            "translation": "considered",
+            "root": "R-'-Y",
+            "related_words": "Ra'a"
+          },
+          {
+            "arabic": "كَيْفَ",
+            "translation": "how",
+            "root": "N/A",
+            "related_words": "N/A"
+          },
+          {
+            "arabic": "فَعَلَ",
+            "translation": "dealt",
+            "root": "F-'-L",
+            "related_words": "Fa'ala"
+          },
+          {
+            "arabic": "رَبُّكَ",
+            "translation": "your Lord",
+            "root": "R-B-B",
+            "related_words": "Rabb"
+          },
+          {
+            "arabic": "بِأَصْحَابِ",
+            "translation": "with the companions",
+            "root": "Ṣ-Ḥ-B",
+            "related_words": "Sahib"
+          },
+          {
+            "arabic": "الْفِيلِ",
+            "translation": "of the elephant?",
+            "root": "F-Y-L",
+            "related_words": "Fil"
+          }
+        ]
       }
     ]
   },
@@ -530,22 +856,20 @@
       {
         "ayah_number": 1,
         "arabic_text": "لِإِيلَافِ قُرَيْشٍ",
-        "translation_english": "For the accustomed security of the Quraysh,"
-      },
-      {
-        "ayah_number": 2,
-        "arabic_text": "إِيلَافِهِمْ رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ",
-        "translation_english": "Their accustomed security [in] the caravan of winter and summer -"
-      },
-      {
-        "ayah_number": 3,
-        "arabic_text": "فَلْيَعْبُدُوا رَبَّ هَٰذَا الْبَيْتِ",
-        "translation_english": "Let them worship the Lord of this House,"
-      },
-      {
-        "ayah_number": 4,
-        "arabic_text": "الَّذِي أَطْعَمَهُم مِّن جُوعٍ وَآمَنَهُم مِّنْ خَوْفٍ",
-        "translation_english": "Who has fed them, [saving them] from hunger and made them safe, [saving them] from fear."
+        "words": [
+          {
+            "arabic": "لِإِيلَافِ",
+            "translation": "For the security",
+            "root": "A-L-F",
+            "related_words": "Alf, Ulfah"
+          },
+          {
+            "arabic": "قُرَيْشٍ",
+            "translation": "of the Quraysh",
+            "root": "Q-R-Sh",
+            "related_words": "Quraysh"
+          }
+        ]
       }
     ]
   },
@@ -557,37 +881,32 @@
       {
         "ayah_number": 1,
         "arabic_text": "أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ",
-        "translation_english": "Have you seen the one who denies the religion?"
-      },
-      {
-        "ayah_number": 2,
-        "arabic_text": "فَذَٰلِكَ الَّذِي يَدُعُّ الْيَتِيمَ",
-        "translation_english": "For that is the one who drives away the orphan"
-      },
-      {
-        "ayah_number": 3,
-        "arabic_text": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ",
-        "translation_english": "And does not encourage the feeding of the poor."
-      },
-      {
-        "ayah_number": 4,
-        "arabic_text": "فَوَيْلٌ لِّلْمُصَلِّينَ",
-        "translation_english": "So woe to those who pray"
-      },
-      {
-        "ayah_number": 5,
-        "arabic_text": "الَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ",
-        "translation_english": "Those who are heedless of their prayer -"
-      },
-      {
-        "ayah_number": 6,
-        "arabic_text": "الَّذِينَ هُمْ يُرَاءُونَ",
-        "translation_english": "Those who make show [of their deeds]"
-      },
-      {
-        "ayah_number": 7,
-        "arabic_text": "وَيَمْنَعُونَ الْمَاعُونَ",
-        "translation_english": "And withhold [small] assistance."
+        "words": [
+          {
+            "arabic": "أَرَأَيْتَ",
+            "translation": "Have you seen",
+            "root": "R-'-Y",
+            "related_words": "Ra'a"
+          },
+          {
+            "arabic": "الَّذِي",
+            "translation": "the one who",
+            "root": "N/A",
+            "related_words": "N/A"
+          },
+          {
+            "arabic": "يُكَذِّبُ",
+            "translation": "denies",
+            "root": "K-Dh-B",
+            "related_words": "Kadhdhaba"
+          },
+          {
+            "arabic": "بِالدِّينِ",
+            "translation": "the religion?",
+            "root": "D-Y-N",
+            "related_words": "Deen"
+          }
+        ]
       }
     ]
   },
@@ -599,17 +918,26 @@
       {
         "ayah_number": 1,
         "arabic_text": "إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ",
-        "translation_english": "Indeed, We have granted you, [O Muhammad], al-Kawthar."
-      },
-      {
-        "ayah_number": 2,
-        "arabic_text": "فَصَلِّ لِرَبِّكَ وَانْحَرْ",
-        "translation_english": "So pray to your Lord and sacrifice [to Him alone]."
-      },
-      {
-        "ayah_number": 3,
-        "arabic_text": "إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ",
-        "translation_english": "Indeed, your enemy is the one cut off."
+        "words": [
+          {
+            "arabic": "إِنَّا",
+            "translation": "Indeed, We",
+            "root": "N/A",
+            "related_words": "N/A"
+          },
+          {
+            "arabic": "أَعْطَيْنَاكَ",
+            "translation": "have granted you",
+            "root": "'-T-Y",
+            "related_words": "A'taa"
+          },
+          {
+            "arabic": "الْكَوْثَرَ",
+            "translation": "al-Kawthar",
+            "root": "K-Th-R",
+            "related_words": "Kuthar"
+          }
+        ]
       }
     ]
   },
@@ -621,32 +949,32 @@
       {
         "ayah_number": 1,
         "arabic_text": "قُلْ يَا أَيُّهَا الْكَافِرُونَ",
-        "translation_english": "Say, 'O disbelievers,"
-      },
-      {
-        "ayah_number": 2,
-        "arabic_text": "لَا أَعْبُدُ مَا تَعْبُدُونَ",
-        "translation_english": "I do not worship what you worship."
-      },
-      {
-        "ayah_number": 3,
-        "arabic_text": "وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ",
-        "translation_english": "Nor are you worshipers of what I worship."
-      },
-      {
-        "ayah_number": 4,
-        "arabic_text": "وَلَا أَنَا عَابِدٌ مَّا عَبَدتُّمْ",
-        "translation_english": "Nor will I be a worshiper of what you worship."
-      },
-      {
-        "ayah_number": 5,
-        "arabic_text": "وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ",
-        "translation_english": "Nor will you be worshipers of what I worship."
-      },
-      {
-        "ayah_number": 6,
-        "arabic_text": "لَكُمْ دِينُكُمْ وَلِيَ دِينِ",
-        "translation_english": "For you is your religion, and for me is my religion.'"
+        "words": [
+          {
+            "arabic": "قُلْ",
+            "translation": "Say",
+            "root": "Q-W-L",
+            "related_words": "Qawl, Qala"
+          },
+          {
+            "arabic": "يَا",
+            "translation": "O",
+            "root": "N/A",
+            "related_words": "N/A"
+          },
+          {
+            "arabic": "أَيُّهَا",
+            "translation": "you who are",
+            "root": "N/A",
+            "related_words": "N/A"
+          },
+          {
+            "arabic": "الْكَافِرُونَ",
+            "translation": "disbelievers",
+            "root": "K-F-R",
+            "related_words": "Kufr, Kafir"
+          }
+        ]
       }
     ]
   },
@@ -658,17 +986,38 @@
       {
         "ayah_number": 1,
         "arabic_text": "إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ",
-        "translation_english": "When the victory of Allah has come and the conquest,"
-      },
-      {
-        "ayah_number": 2,
-        "arabic_text": "وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا",
-        "translation_english": "And you see the people entering into the religion of Allah in crowds,"
-      },
-      {
-        "ayah_number": 3,
-        "arabic_text": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ ۚ إِنَّهُ كَانَ تَوَّابًا",
-        "translation_english": "Then exalt [Him] with praise of your Lord and ask forgiveness of Him. Indeed, He is ever Accepting of repentance."
+        "words": [
+          {
+            "arabic": "إِذَا",
+            "translation": "When",
+            "root": "N/A",
+            "related_words": "N/A"
+          },
+          {
+            "arabic": "جَاءَ",
+            "translation": "has come",
+            "root": "J-Y-'-",
+            "related_words": "Ja'a"
+          },
+          {
+            "arabic": "نَصْرُ",
+            "translation": "the victory",
+            "root": "N-Ṣ-R",
+            "related_words": "Nasr"
+          },
+          {
+            "arabic": "اللَّهِ",
+            "translation": "of Allah",
+            "root": "A-L-H",
+            "related_words": "Ilah"
+          },
+          {
+            "arabic": "وَالْفَتْحُ",
+            "translation": "and the conquest",
+            "root": "F-T-Ḥ",
+            "related_words": "Fath"
+          }
+        ]
       }
     ]
   },
@@ -680,27 +1029,38 @@
       {
         "ayah_number": 1,
         "arabic_text": "تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ",
-        "translation_english": "May the hands of Abu Lahab be ruined, and ruined is he."
-      },
-      {
-        "ayah_number": 2,
-        "arabic_text": "مَا أَغْنَىٰ عَنْهُ مَالُهُ وَمَا كَسَبَ",
-        "translation_english": "His wealth will not avail him or that which he gained."
-      },
-      {
-        "ayah_number": 3,
-        "arabic_text": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
-        "translation_english": "He will [enter to] burn in a Fire of [blazing] flame"
-      },
-      {
-        "ayah_number": 4,
-        "arabic_text": "وَامْرَأَتُهُ حَمَّالَةَ الْحَطَبِ",
-        "translation_english": "And his wife [as well], the carrier of firewood."
-      },
-      {
-        "ayah_number": 5,
-        "arabic_text": "فِي جِيدِهَا حَبْلٌ مِّن مَّسَدٍ",
-        "translation_english": "Around her neck is a rope of [twisted] fiber."
+        "words": [
+          {
+            "arabic": "تَبَّتْ",
+            "translation": "May be ruined",
+            "root": "T-B-B",
+            "related_words": "Tabbat"
+          },
+          {
+            "arabic": "يَدَا",
+            "translation": "the hands",
+            "root": "Y-D-Y",
+            "related_words": "Yadayn"
+          },
+          {
+            "arabic": "أَبِي",
+            "translation": "of Abu",
+            "root": "A-B-W",
+            "related_words": "Ab, Aba"
+          },
+          {
+            "arabic": "لَهَبٍ",
+            "translation": "Lahab",
+            "root": "L-H-B",
+            "related_words": "Lahab"
+          },
+          {
+            "arabic": "وَتَبَّ",
+            "translation": "and ruined is he",
+            "root": "T-B-B",
+            "related_words": "Tabbat"
+          }
+        ]
       }
     ]
   },
@@ -712,22 +1072,32 @@
       {
         "ayah_number": 1,
         "arabic_text": "قُلْ هُوَ اللَّهُ أَحَدٌ",
-        "translation_english": "Say, 'He is Allah, [who is] One,"
-      },
-      {
-        "ayah_number": 2,
-        "arabic_text": "اللَّهُ الصَّمَدُ",
-        "translation_english": "Allah, the Eternal Refuge."
-      },
-      {
-        "ayah_number": 3,
-        "arabic_text": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
-        "translation_english": "He neither begets nor is born,"
-      },
-      {
-        "ayah_number": 4,
-        "arabic_text": "وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
-        "translation_english": "Nor is there to Him any equivalent.'"
+        "words": [
+          {
+            "arabic": "قُلْ",
+            "translation": "Say",
+            "root": "Q-W-L",
+            "related_words": "Qawl, Qala"
+          },
+          {
+            "arabic": "هُوَ",
+            "translation": "He is",
+            "root": "N/A",
+            "related_words": "N/A"
+          },
+          {
+            "arabic": "اللَّهُ",
+            "translation": "Allah",
+            "root": "A-L-H",
+            "related_words": "Ilah"
+          },
+          {
+            "arabic": "أَحَدٌ",
+            "translation": "One",
+            "root": "A-Ḥ-D",
+            "related_words": "Ahad, Wahid"
+          }
+        ]
       }
     ]
   },
@@ -739,27 +1109,32 @@
       {
         "ayah_number": 1,
         "arabic_text": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ",
-        "translation_english": "Say, 'I seek refuge in the Lord of daybreak"
-      },
-      {
-        "ayah_number": 2,
-        "arabic_text": "مِن شَرِّ مَا خَلَقَ",
-        "translation_english": "From the evil of that which He created"
-      },
-      {
-        "ayah_number": 3,
-        "arabic_text": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
-        "translation_english": "And from the evil of darkness when it settles"
-      },
-      {
-        "ayah_number": 4,
-        "arabic_text": "وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ",
-        "translation_english": "And from the evil of the blowers in knots"
-      },
-      {
-        "ayah_number": 5,
-        "arabic_text": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
-        "translation_english": "And from the evil of an envier when he envies.'"
+        "words": [
+          {
+            "arabic": "قُلْ",
+            "translation": "Say",
+            "root": "Q-W-L",
+            "related_words": "Qawl, Qala"
+          },
+          {
+            "arabic": "أَعُوذُ",
+            "translation": "I seek refuge",
+            "root": "'-W-Dh",
+            "related_words": "A'oozu"
+          },
+          {
+            "arabic": "بِرَبِّ",
+            "translation": "in the Lord",
+            "root": "R-B-B",
+            "related_words": "Rabb"
+          },
+          {
+            "arabic": "الْفَلَقِ",
+            "translation": "of daybreak",
+            "root": "F-L-Q",
+            "related_words": "Falaq"
+          }
+        ]
       }
     ]
   },
@@ -771,32 +1146,32 @@
       {
         "ayah_number": 1,
         "arabic_text": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
-        "translation_english": "Say, 'I seek refuge in the Lord of mankind,"
-      },
-      {
-        "ayah_number": 2,
-        "arabic_text": "مَلِكِ النَّاسِ",
-        "translation_english": "The Sovereign of mankind."
-      },
-      {
-        "ayah_number": 3,
-        "arabic_text": "إِلَٰهِ النَّاسِ",
-        "translation_english": "The God of mankind,"
-      },
-      {
-        "ayah_number": 4,
-        "arabic_text": "مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ",
-        "translation_english": "From the evil of the retreating whisperer -"
-      },
-      {
-        "ayah_number": 5,
-        "arabic_text": "الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ",
-        "translation_english": "Who whispers into the breasts of mankind -"
-      },
-      {
-        "ayah_number": 6,
-        "arabic_text": "مِنَ الْجِنَّةِ وَالنَّاسِ",
-        "translation_english": "From among the jinn and mankind.'"
+        "words": [
+          {
+            "arabic": "قُلْ",
+            "translation": "Say",
+            "root": "Q-W-L",
+            "related_words": "Qawl, Qala"
+          },
+          {
+            "arabic": "أَعُوذُ",
+            "translation": "I seek refuge",
+            "root": "'-W-Dh",
+            "related_words": "A'oozu"
+          },
+          {
+            "arabic": "بِرَبِّ",
+            "translation": "in the Lord",
+            "root": "R-B-B",
+            "related_words": "Rabb"
+          },
+          {
+            "arabic": "النَّاسِ",
+            "translation": "of mankind",
+            "root": "A-N-S",
+            "related_words": "Nas, Insan"
+          }
+        ]
       }
     ]
   }
