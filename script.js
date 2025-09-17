@@ -2,12 +2,12 @@ document.addEventListener('DOMContentLoaded', () => {
     const surahSelect = document.getElementById('surah-select');
     const surahContent = document.getElementById('surah-content');
 
-    surahSelect.addEventListener('change', (event) => {
+    surahSelect.addEventListener('change', async (event) => {
         const surahNumber = event.target.value;
         if (surahNumber) {
-            loadSurah(surahNumber);
+            await loadSurah(surahNumber);
         } else {
-            surahContent.innerHTML = '<p>Please select a surah from the dropdown menu to view its content.</p>';
+            surahContent.innerHTML = '<p>Please select a surah from the dropdown menu to view its detailed breakdown.</p>';
         }
     });
 
@@ -29,21 +29,37 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function renderSurah(surah) {
-        let contentHtml = `
-            <h2>${surah.name_arabic} (${surah.name_english})</h2>
-            <div class="content-container">
-        `;
+        let contentHtml = `<h2 class="surah-title">${surah.name_arabic} (${surah.name_english})</h2>`;
         
         surah.ayahs.forEach(ayah => {
             contentHtml += `
                 <div class="ayah-container">
-                    <p class="arabic-text">${ayah.arabic_text} ﴿${ayah.ayah_number}﴾</p>
-                    <p class="translation-text">${ayah.translation_english}</p>
-                </div>
+                    <p class="ayah-header">Ayah: ${ayah.ayah_number}</p>
+                    <p class="ayah-text">${ayah.arabic_text}</p>
             `;
+
+            if (ayah.words && ayah.words.length > 0) {
+                contentHtml += `<div class="word-details-grid">`;
+                ayah.words.forEach(word => {
+                    contentHtml += `
+                        <div class="word-detail-box-left">
+                            <p class="root-info">
+                                <strong>Root and related words:</strong>
+                            </p>
+                            <p>Root: ${word.root || 'N/A'}</p>
+                            <p>Related: ${word.related_words || 'N/A'}</p>
+                        </div>
+                        <div class="word-detail-box-right">
+                            <p class="word-arabic">${word.arabic}</p>
+                            <p class="word-translation">${word.translation}</p>
+                        </div>
+                    `;
+                });
+                contentHtml += `</div>`;
+            }
+            contentHtml += `</div>`;
         });
 
-        contentHtml += `</div>`;
         surahContent.innerHTML = contentHtml;
     }
 });
